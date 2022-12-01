@@ -33,8 +33,8 @@ RSpec.describe Game do
       end
 
       ## This Test is failing for some reason even though the game is working just fine, even AI vs AI
-      ## It's 4AM and I don't have the brain power anymore
-      
+      ## It's 4AM and I don't have the brain power anymore. I want to sleep
+
       # context 'when creating AI/CPU Player' do
       #   before do
       #     allow(game).to receive(:puts)
