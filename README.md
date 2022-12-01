@@ -1,4 +1,5 @@
 ## How to run
+Assuming you're outside the project folder
 ```
 cd connectFour
 ruby connectFour.rb
